@@ -20,7 +20,9 @@ The main variables are:
 •Lagged in inflation: 𝛑t  is inflation. πt-1… πt-12  displays the lag from the previous year. The average of the previous 12 months is taken to find the yearly average lag.
 
 Data Source:
+
 •	Federal Reserve Bank of St. Louis. (n.d). Consumer Price Index for All Urban Consumers (CPIAUCSL) https://fred.stlouisfed.org/series/CPIAUCSL
+
 •	Federal Reserve Bank of St. Louis. (n.d). Unemployment rate (UNRATE). https://fred.stlouisfed.org/series/UNRATE
 
 ## Methods
@@ -44,8 +46,11 @@ Data Source:
 
 ## Key findings
 • The traditional Philips curve observes low significance between inflation and unemployment. 
+
 • Including lagged inflation, in order to capture expectations, displayed significant results. This is consistent with the expectations-augments Philips curve.
+
 • Central banks should consider managing inflation expectations, as it provides a high magnitude on inflation compared to market conditions. 
+
 
 Overall, the analysis suggests a negative relationship between unemployment and inflation was observed.
 
@@ -55,9 +60,13 @@ Overall, the analysis suggests a negative relationship between unemployment and 
 
 ## Limitations
 • Unemployment rate was used as a proxy for unemployment gap (U-U*). Therefore slack in the market isn't considered through my OLS regression.
+
 • The relationship between inflation and unemployment may change across different economic periods.
+
 •The omission of the regression error, which includes supply shocks.
+
 • Inflation can be affected by many factors that are not included in the models.
+
 
 ## Tools and Skills
 
@@ -65,11 +74,17 @@ Programming: R
 Libraries: stargazer, dplyer, xts
 
 Skills demonstrated:
+
 • Data cleaning and transformation
+
 • Data visualisation
+
 • Statistical analysis
+
 • Regression modelling
+
 • Communicating analytical findings
+
 
 ## Author
 

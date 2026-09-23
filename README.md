@@ -49,7 +49,7 @@ Data Source:
 
 Overall, the analysis suggests a negative relationship between unemployment and inflation was observed.
 
-Visualisations
+## Visualisations
 <img width="915" height="622" alt="philips curve results" src="https://github.com/user-attachments/assets/a8a51fbf-3fe6-47e2-bf9f-faa81bb03ade" />
 
 

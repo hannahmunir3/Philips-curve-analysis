@@ -71,6 +71,7 @@ Overall, the analysis suggests a negative relationship between unemployment and 
 ## Tools and Skills
 
 Programming: R
+
 Libraries: stargazer, dplyer, xts
 
 Skills demonstrated:
